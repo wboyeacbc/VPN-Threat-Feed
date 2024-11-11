@@ -1,6 +1,7 @@
 # IP ranges to block, these IPs are targeting SSL VPN with password spraying
 45.151.99.150
 45.151.99.154
+68.235.46.0/24
 109.120.137.1/24
 142.111.121.1/24
 142.252.86.1/24
