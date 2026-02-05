@@ -8148,3 +8148,5 @@
 217.12.215.0/24
 ######################## AS15169 VPN Password Spray 12/29/25 BG
 91.92.243.0/24
+######################## Blocking IP due to numerous VPN attempts to access administrator account
+153.80.145.21/24
